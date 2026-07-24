@@ -1,0 +1,199 @@
+﻿report_name,description
+Activity Diarium - Detail,Daftar daily activity Diarium yang telah dibuat karyawan Telkom Group dalam range periode tahun berjalan
+Activity Diarium - Status Hari ini,"Status pengisian Daily Activity tiap karyawan pada Hari ini, data diperbarui pukul 09, 12, 15, 18, dan 21 WIB"
+Monitoring Presensi Realtime (Back to Office),"Monitoring Presensi Karyawan pada hari H, sesuai dengan Nota Dinas Elektronik DIREKTUR HUMAN CAPITAL MANAGEMENT perihal Back to Office pada tanggal 17 Oktober 2024."
+Monitoring Presensi Historis (Back to Office),"Monitoring Presensi Diarium Karyawan periode waktu yang telah lalu (historis) untuk bulan terakhir, sesuai dengan Nota Dinas Elektronik DIREKTUR HUMAN CAPITAL MANAGEMENT perihal Back to Office tanggal 17 Oktober 2024. Data yang tersedia merupakan data raw, masih meliputi data hari Libur/Tanggal merah dan termasuk flag karyawan yang sedang menjalankan Cuti."
+HR Current Karyawan Aktif Telkom Group,Laporan yang berisi daftar karyawan aktif (tetap dan sementara) pada bulan berjalan di Telkom Group
+Dalformasi Telkom Parent,"Data struktur organisasi, formasi dan detail pemangku untuk lingkup Telkom Parent."
+Monitoring Presensi Realtime (New FWA),"Monitoring Presensi Diarium Karyawan pada hari H beserta keterangan WFH,WFA dan relasinya dengan kebijakan FWA terbaru tahun 2023.Data akan diupdate setiap hari pada pukul 06:15, 07:15, 08:15, 09:15, 10:15, 11:15, 12:15, 14:15, 15:15, 18:15 WIB"
+Activity Diarium - Status Hari ini HCBP,"Laporan Status pengisian daily activity diarium karyawan HCSO & HCSP per hari ini, data diperbarui pukul 09, 12, 15, dan 18 WIB"
+Struktur Organisasi dan Formasi Telkom (OM),Struktur organisasi dan formasi Telkom Organization Management
+Activity Diarium - Persentase Bulanan,"Data Rekap bulanan Persentase pengisan Daily Activity Q4 2022 - Q3 2023 tiap Unit, dihitung dari rata-rata persentase harian diluar tanggal merah dan hari libur"
+Laporan Streamline Pendidikan,"Data Pendidikan untuk karyawan Telkom Parent Aktif, dengan status pendidikan DIAKUI"
+Activity Diarium - Persentase Harian,Data Rekap persentase harian pengisian Daily Activity tiap Unit untuk tahun 2025
+HR Current Karyawan Aktif Telkom Group dan BBP (HCSP),"Laporan yang berisi daftar karyawan aktif (tetap dan sementara) pada bulan berjalan di Telkom Group dan BBP karyawan, untuk kebutuhan HCSP."
+Data Nomor Identitas (KTP) Karyawan & Keluarga,List nomor identitas karyawan & keluarga karyawan Telkom.
+Monitoring Presensi Historis 2026 TW1 - Back to Office,"Monitoring Presensi Diarium Karyawan periode waktu yang telah lalu (historis) untuk Triwulan 1 (Q1) tahun 2026, sesuai dengan Nota Dinas Elektronik DIREKTUR HUMAN CAPITAL MANAGEMENT perihal Back to Office tanggal 17 Oktober 2024.&lt;br&gt;Data yang tersedia merupakan data raw, masih meliputi data hari Libur/Tanggal merah dan termasuk flag karyawan yang sedang menjalankan Cuti."
+Laporan Streamline Job Function History Dinas,"Data dan monitor data quality terkait job function history dinas 10 tahun ke belakang, untuk monitor HCSM"
+Monitoring Presensi Diarium Realtime (FWA model lama),"Monitoring Presensi Karyawan pada hari H beserta keterangan WFH,WFA dan relasinya dengan kebijakan FWA terbaru tahun 2023"
+Monitoring Presensi Historis 2025 TW1 - Back to Office,"Monitoring Presensi Diarium Karyawan periode waktu yang telah lalu (historis) untuk Triwulan 1 (Q1) tahun 2025, sesuai dengan Nota Dinas Elektronik DIREKTUR HUMAN CAPITAL MANAGEMENT perihal Back to Office tanggal 17 Oktober 2024.&lt;br&gt;Data yang tersedia merupakan data raw, masih meliputi data hari Libur/Tanggal merah dan termasuk flag karyawan yang sedang menjalankan Cuti."
+Monitoring Presensi Historis (New FWA),"Monitoring Presensi Diarium Karyawan periode waktu yang telah lalu (historis), beserta keterangan WFH,WFA dan relasinya dengan kebijakan FWA terbaru tahun 2023, tersedia data untuk 3 bulan terakhir."
+Line Manager Feedback (LMF) - Raw Data BP III-VI,"Monitoring LMF untuk band posisi III-VI, Cut off tanggal 8 Mei 2026"
+Laporan Streamline DJM Manajerial,Data DJM Managerial yang dikelola HCSM
+RAW Upload Pekerja Mitra Telkom,Data Pekerja Mitra (Tenaga Alih Daya / Outsource) yang telah dilaporkan Unit Fungsi Pengadaan melalui platform Jarvis per bulan.
+Monitoring Presensi Historis 2025 TW4 - Back to Office,"Monitoring Presensi Diarium Karyawan periode waktu yang telah lalu (historis) untuk Triwulan 4 (Q4) tahun 2025, sesuai dengan Nota Dinas Elektronik DIREKTUR HUMAN CAPITAL MANAGEMENT perihal Back to Office tanggal 17 Oktober 2024. Data yang tersedia merupakan data raw, masih meliputi data hari Libur/Tanggal merah dan termasuk flag karyawan yang sedang menjalankan Cuti."
+Laporan Streamline CFU FU,Data CFU/FU per posisi Telkom Parent
+Line Manager Feedback (LMF) - Status,Data untuk memantau pengisian LMF
+Monitoring Presensi Historis 2025 TW2 - Back to Office,"Monitoring Presensi Diarium Karyawan periode waktu yang telah lalu (historis) untuk Triwulan 2 (Q2) tahun 2025, sesuai dengan Nota Dinas Elektronik DIREKTUR HUMAN CAPITAL MANAGEMENT perihal Back to Office tanggal 17 Oktober 2024. Data yang tersedia merupakan data raw, masih meliputi data hari Libur/Tanggal merah dan termasuk flag karyawan yang sedang menjalankan Cuti."
+Talent Cluster Telkom,Data cluster Talent karyawan Telkom dari ingenium
+Profil Karyawan Unit Bisnis (HR Current),Laporan yang berisi daftar karyawan aktif (tetap dan sementara) pada bulan berjalan di unit bisnis Telkom Group
+Monitoring Cuti Telkom Parent,Data Monitoring Cuti Karyawan Telkom Parent
+Data HR Current bulanan HC Budget,Laporan yang berisi daftar karyawan aktif Telkom pada bulan berjalan di Telkom Group
+Atasan Karyawan Telkom Parent,"Data karyawan aktif Telkom Parent, beserta data atasan 1 dan atasan 2 yang tercatat sebagai atasan di struktur OM / PGS / BKO / POH."
+Line Manager Feedback (LMF) 7 OpCo - Status,Data Pemantauan pengisian LMF 7 OpCo&lt;br&gt;PT. PINSPT. TELKOM AKSESPT. TELKOM INFRAPT. TELKOM INFRASTRUKTUR INDONESIAPT. SIGMA CIPTA CARAKAPT. NUTECH INTEGRASIPT. DIGITAL APLIKASI SOLUSI (DIGISERVE)
+Activity Diarium - Detail (Telin Group),Daftar daily activity Diarium yang telah dibuat karyawan Telin Group dalam range periode 3 bulan terakhir.
+report_streamline_leadership_assessment,"Dataset leadership assessment terakhir untuk populasi karyawan aktif Telkom Parent baik yang masih aktif maupun sudah expiered, untuk support Competency Requirement PMU (Profile Match Up) dalam rangka project streamlining"
+Line Manager Feedback (LMF) - Raw Data BP I & II,Merupakan Raw Data LMF khusus Band I-II
+Data Status Pergerakan Karyawan Telkom,Data status pergerakan posisi karyawan Telkom Parent bulan N+1 untuk keperluan User Access Review (UAR)
+Monitoring Presensi Historis 2025 TW3 - Back to Office,"Monitoring Presensi Diarium Karyawan periode waktu yang telah lalu (historis) untuk Triwulan 3 (Q3) tahun 2025, sesuai dengan Nota Dinas Elektronik DIREKTUR HUMAN CAPITAL MANAGEMENT perihal Back to Office tanggal 17 Oktober 2024. Data yang tersedia merupakan data raw, masih meliputi data hari Libur/Tanggal merah dan termasuk flag karyawan yang sedang menjalankan Cuti."
+Jumlah ADT Kesehatan,Jumlah Anak Dalam Tanggungan Kesehatan yang tercatat di SAP.
+Monitoring Presensi Diarium Historis (FWA model lama),Data status presensi Diarium karyawan Telkom Group berdasarkan periode waktu yang telah lalu (historis)
+Data Atasan Karyawan TelkomGroup,"Data atasan karyawan TelkomGroup, meliputi data atasan sesuai Struktur Organisasi OM, BKO, POH dan PGS."
+Riwayat Sertifikasi,Data riwayat sertifikasi yang pernah diikuti karyawan Telkom
+Hasil Assessment 2025,Hasil rekomendasi assessment untuke pelaksanaan per Januari 2025 untuk karyawan Telkom Group
+Report Inisiatif Development Talk (With-U),Data pengajuan konseling With-U berdasarkan Inisiatif Development Talk dari bawahan ke atasan.
+Kedisiplinan Presensi Karyawan Telkom Parent (Back To Office),"Detail data kedisiplinan presensi karyawan di Diarium selama periode Back to Office untuk kebutuhan Employee Relation HCSO.Data tidak mencakup data presensi karyawan dengan status Cuti, MPP, Sakit, Pendidikan dan OJT, serta tidak termasuk presensi di haril libur (Tanggal Merah/Sabtu/Minggu)."
+Laporan Streamline PMU Certification,Data sertifikasi karyawan Telkom Parent 10 tahun terakhir
+Karyawan Meninggal dari Periode 2025 berserta Data Anggota Keluarga,Karyawan Meninggal dari Periode 2025 berserta Data Anggota Keluarga
+Laporan Streamline Job Function Job Role Position,"Data dan monitoring quality Job Function dan Job Role Position eksisting, untuk HCSM "
+Karyawan yang Anggota Keluarganya Meninggal dari Periode 2025,Karyawan yang Anggota Keluarganya Meninngal dari Periode 2025
+Raw Data Care & Protect,Raw Data Care & Protect
+Activity Diarium - Persentase per Employee,Persentase pengisian Daily Activity per masing-masing karyawan dalam periode 1 bulan di tahun berjalan.
+Email Karyawan Telkom Group dan Mitra Alih Daya,Data email karyawan Telkom Parent dan Mitra alih daya Telkom Parent
+Atasan Karyawan Telkom Parent (OM),Data atasan karyawan aktif Telkom Parent sesuai dengan struktur OM.
+Karyawan Band I Telkom Indonesia,"Daftar semua Band Position-I Telkom Indonesia, termasuk organik dan prohire Telkom Indonesia yang ditugaskan ke anak atau cucu Perusahaan"
+Data HR Current Untuk Monthly SSOF,Data HR Current Untuk Monthly Process Operation Compare Data User SAP SIMTEL & TREMS Oleh Tim System Compliance Sub-Unit Finance Support System SSOF
+Hasil Assessment 2023 - 2024,Hasil rekomendasi assessment untuke pelaksanaan setelah Juni 2021 hingga Desember 2024 untuk karyawan Telkom Group
+Data Care & Protect,Data Care & Protect
+Sales and Revenue: Order and Billing (NCX dan Bundling),Data checking terkait data Revenue produk digital berdasarkan TIBS (Telkom Integrated Billing System) dan NCX
+Report Inisiatif dan Pengajuan DevTalk (With-U),Report pengajuan konseling inisiatif dari bawahan ke atasan dan pengajuan pengembangan karir dari atasan ke bawahan.
+Karyawan MPP bulanan HC Budget,Laporan yang berisi daftar karyawan Telkom yang berstatus MPP pada bulan berjalan
+Report Learning Hours Development Activity ACI,Report Learning Hours Development Activity ACI
+Monitoring Presensi Historis 2026 TW2 - Back to Office,"Monitoring Presensi Diarium Karyawan periode waktu yang telah lalu (historis) untuk Triwulan 2 (Q2) tahun 2026, sesuai dengan Nota Dinas Elektronik DIREKTUR HUMAN CAPITAL MANAGEMENT perihal Back to Office tanggal 17 Oktober 2024. Data yang tersedia merupakan data raw, masih meliputi data hari Libur/Tanggal merah dan termasuk flag karyawan yang sedang menjalankan Cuti."
+Data Karyawan Telkom Group (GCT),List data karyawan Telkom Group untukmendukung analisis data karyawan oleh Task Force Subsidiary Streamlining (GCT)
+Program e-learning Mandatory Cyber Security,Data Karyawan untuk Program e-learning Mandatory Cyber Security
+Data Karyawan HR Current PT Telkom Infrastructure Indonesia Untuk user IT Tools,"Data Karyawan HR Current PT Telkom Infrastructure Indonesia Untuk user IT Tools yang meliputi: PT. TIF, DWS MBB Managed Service, DWS FBB Managed Service, SDA Operation."
+Karyawan Pensiun bulanan HC Budget,Laporan yang berisi daftar karyawan Telkom yang berstatus pensiun pada bulan berjalan
+Ulang Tahun Karyawan DDP,Ulang Tahun Karyawan DIVISI DIGITAL PRODUCT
+Employee Relation,Data karyawan aktif Telkom Parent untuk kebutuhan HCBP-Employee Relation
+Staffing Index Telkom Parent,Staffing index tiap Divisi di Telkom Parent
+Yakes dan BKMP,Data Kebutuhan & Yakes dan Dana Terkait Implementasi BKMP
+Karyawan Telkom - Pernah CLTP,List karyawan Telkom Parent yang pernah CLTP
+Care Message Counter,Care Message Counter
+Data Kontak Karyawan Telkom Group,Data kontak karyawan Telkom Group untuk koordinasi dan penyampaian informasi
+Revenue and Sales: Product Digital,Data checking terkait data Revenue produk digital berdasarkan TIBS (Telkom Integrated Billing System) dan NCX
+Riwayat Pelatihan Karyawan (New),Data Riwayat Pelatihan Karyawan (New) bersumber dari LMS DigiVerse
+Monitoring Pengajuan Model Kerja (New FWA),Laporan detil pengajuan model FWA oleh karyawan per periode sesuai kebijakan tahun 2023
+Report Pengajuan Atasan ke Bawahan (With-U),Report pengajuan konseling atasan ke bawahan melalui With-U terkait performasi dan pengembangan karir karyawan.
+Laporan Corpu Training Participant,Data pelatihan karyawan Telkom Parent
+Sales: NCX EBIS and Bundling HSI (details layanan),Menampilkan data terkait realisasi sales dari Channel NCX EBIS dan Bundling HSI
+HR Current TCU,Data HR Current Karyawan untuk kebutuhan TCU
+Rekap Upload Bulanan Pekerja Mitra Telkom,Upload Bulanan Pekerja Mitra Telkom adalah aktivitas rekonsiliasi data yang dilakukan secara berkala untuk memperbarui basis data tenaga kerja alih daya/pekerja mitra yang beroperasi di lingkungan operasional Telkom.
+Sales: NCX EBIS and Bundling HSI,Data terkait dengan order sales produk digital dengan dilakukan grouping berdasarkan order id
+Data Karyawan CFU dan DFU,"Data karyawan FU NITS, CFU Enterprise, CFU Wholesale dan DFU untuk kebutuhan kegiatan survei dan sosialisasi produk dapat dilakukan kepada responden terkait."
+Wellbeing Analysis,"Metrics jumlah presensi karyawan yang meliputi jumlah check-in, check-out, cuti, sehat, sakit pada tiga bulan terakhir"
+RAW Data Outsource Anak Perusahaan,"Tabel ini digunakan untuk menyimpan data upload tenaga kerja alih daya (outsource) dari anak perusahaan. Setiap baris merepresentasikan agregasi jumlah pekerja berdasarkan kombinasi unik dari level pendidikan, jenis kelamin, area penempatan, bidang pekerjaan, dan job posisi pada periode bulan dan tahun tertentu. Data dikelola melalui aplikasi jarvis dan di upload oleh admin anak perusahaan."
+List Kompetensi dan Proficiency Level,List Kompetensi dan Proficiency Level karyawan Telkom Parent
+Work Quantity Metrics,"Jumlah key result, objektif dan rata-rata jumlah activity per-kuartal untuk masing-mmasing karyawan Telkom Parent"
+Nomor Identitas Karyawan,"Data terkait nomor kartu identitas resmi karyawan Telkom (KTP,NPWP,BPJS TK, BPJS KES)"
+Sales: NCX EBIS and Bundling HSI (with Sub Product),"Menampilkan data terkait realisasi sales dari Channel NCX EBIS dan Bundling HSI, termasuk sub produk Pijar."
+Learning Hour,"Learning Hour Pelatihan Digiverse, Digilearn, dan Kampiun"
+Syarat Kompetensi - Corpu,Data Syarat Kompotensi kebutuhan Corpu
+Karyawan Telkom - Sedang CLTP,List karyawan Telkom Parent yang sedang CLTP
+Riwayat Pelatihan Digital Learning,Riwayat pelatihan pada platform Digital Learning TCU yang pernah diambil karyawan Telkom
+Struktur OM Infraco,Struktur OM Infraco
+Monitoring Detil Privacy Notice dan Consent Form (Mobility),Daftar pengisian Privacy Notice karyawan dan keluarga karyawan di MyIntegrity.Update setiap jam.
+MAU: Produk Digital DBT,Data laporan usage produk digital yang dikelola oleh DBT dengan periode update bulanan
+Data HR Current Bulanan Integrated Audit,Data HR Current bulanan untuk Integrated Audit oleh unit Internal Audit
+Data Identitas Karyawan (KTP) Untuk Wajib Lapor Ketenagakerjaan (WLK),"Data Identitas Karyawan (KTP) Untuk Wajib Lapor Ketenagakerjaan (WLK), Khusus Telkom Regional"
+"Status Fasilitas Perumahan, Role Category, dan Pasangan Karyawan","Status Fasilitas Perumahan, Role Category, dan Pasangan Karyawan Telkom Parent"
+Rekap Upload Bulanan Pekerja Mitra Anak Perusahaan Telkom Group,"Upload Bulanan Pekerja Mitra Anak Perusahaan Telkom Group adalah sebuah proses pelaporan data rutin secara digital yang dilakukan oleh anak perusahaan di lingkungan Telkom Group.Laporan ini berfungsi untuk menyinkronkan data tenaga kerja alih daya (Pekerja Mitra) ke dalam sistem pusat, yang mencakup Perusahaan, Jumlah Pekerja. Entitas Pelapor: Seluruh anak perusahaan Telkom Group. Objek Data: Tenaga Pekerja Mitra yang ditempatkan untuk mendukung operasional bisnis Anak Perusahaan.﻿Periode (Bulanan): Menunjukkan bahwa data bersifat dinamis, mencatat adanya mutasi, penambahan karyawan baru, atau pemutusan hubungan kerja setiap bulannya."
+Responden survey toucpoint dan blast informasi career (TO),Data pergerakan Transformasi Organisasi sebagai bahan pengiriman responden touchpoint bagi tim Employee Experience dan HC Communication
+Data kebutuhan Keanggotaan SEKAR,Data karyawan Telkom Parent untuk kebutuhan keanggotaan SEKAR
+Data HR Current untuk Development Aplikasi DSO,Data HR Current untuk Development Aplikasi DSO dengan lingkup data karyawan unit NITS (termasuk divisi dibawahnya) dan seluruh Telkom Regional.
+Data Realisasi Profit and Loss DBT,Tabel realization Profit and Loss Produk Digital DBT
+Saless: Order NCX,Laporan terkait data Order NCX EBIS
+Riwayat Pendidikan,Data riwayat pendidikan formal karyawan Telkom Group
+Pengecekan Job dan Posisi OM,Pengecekan Job dan Posisi OM
+Responden Survey Touchpoint Career dan Blast Informasi,Data pergerakan karyawan sebagai bahan pengiriman responden touchpoint bagi tim Employee Experience dan HC Communication
+Monitoring Kelengkapan Dokumen Karyawan,"Monitoring kelengkapan dokumen karyawan Telkom Parent yang sudah tercatat di Satudata, seperti dokumen SK Calon Pegawai, SK Pegawai Perusahaan, Akta Lahir Karyawan, KTP Karyawan, Kartu Keluarga Karyawan, Buku Nikah, Akta Lahir Pasangan, dan SK Pensiun Normal/SK Pensiun Dini."
+Riwayat Penghargaan Karyawan,Data riwayat Penghargaan Karyawan Telkom
+Adjustment Revenue Produk Digital,Tabel berisi data adjustment revenue pada produk digital untuk membantu penelusuran atas penyebab dilakukannya adjustment.
+Profile Sertifikasi,Profile Ingenium Sertifikasi Sigma
+Presensi Realtime - YPT,Presensi Realtime - YAYASAN PENDIDIKAN TELKOM
+Jumlah Karyawan Subsidiary,Jumah karyawan anak perusahaan berdasarkan emporium bulan n-1
+Monitoring Rekap Privacy Notice dan Employee Consent,Monitoring rekap pengisian Privacy Notice karyawan dan keluarga karyawan di MyIntegrity per HC Pengelola.Update setiap jam.
+List Event - Cognitium,Berisi daftar data pelatihan / event pada Cognitium LMS
+Laporan Realisasi WFA 2025 (Format Teks),Laporan Realisasi WFA 2025 dengan format teks sesuai komitmen masing-masing unit
+Riwayat Dinas Anak Perusahaan,History Dinas Anak Perusahaan selain home 1000
+Monitoring Profile Ingenium SIGMA,Monitoring kelengkapan item profile Ingenium karyawan SIGMA
+"Data karyawan pensiun untuk unit SR. CDC, TR1 sd TR5","Data karyawan pensiun 2 tahun terakhir untuk unit SR. CDC, TR1 sd TR5"
+Profile Recognition,Profile recognition Sigma
+Profile Pendidikan,Profile Ingenium Pendidikan Sigma
+Sales: FABD,Laporan terkait dataset transaksi di FABD
+Kuota Cuti Karyawan Telkom,Kuota Cuti Karyawan Telkom
+Perusahaan Telkom Group,Daftar perusahaan dalam pengelolaan Telkom Group
+Work Quality Metrics,Metrik kualitas pekerjaan
+Nomor Linkaja - HC Budget,Data kontak Linkaja kebutuhan HC Budget
+Nilai CnQ,Nilai Competency & Qualification (CnQ) dari karyawan Telkom
+Span of Control History,Histori jumlah bawahan yang dimiliki Manager di Telkom Parent
+Sales Data Feeding to BRIGHT,Laporan ini menampilkan data sales yang dialirkan ke aplikasi BRIGHT EBIS. Data ini dapat digunakan untuk crosscheck apakah suatu order sudah terhitung sebagai performansi atau belum.
+Kelengkapan KPI Jarvis - Telkomsel,Percobaan
+Profile Riwayat Dinas,Profile Ingenium Riwayat Dinas Sigma
+Hasil CBA 2023,Hasil penilaian CBA Tahun 2023
+Retention Rate in Year,Mencakup Karyawan Tetap Telkom Parent dan keterangan apakah keluar setelah satu tahun pasca dihire.
+Data Historis List Atasan,"Data historis list atasan karyawan Telkom Group, meliputi atasan sesuai dengan struktur OM, atasan BKO, atasan PGS, dan/atau atasan POH."
+Lesson Learned and Action to Secure,Rekap lesson learned dan action to secure atas performansi produk digital yang dipresentasikan pada monthly CDIO evaluation
+Progress Kelengkapan Data CV BUMN,Progress Kelengkapan Data CV BUMN
+Pemetaan Kepala Unit BP 1 karyawan Telkom Parent Bulan Berjalan,Pemetaan terkait data-data karyawan yang dikelompokkan ke dalam setiap BP1 struktural sesuai unit masing-masing di Telkom Parent
+DJM Posisi Telkom parent,"DJM (distinct job manual). Terdiri dari Mission Statement, Job Authorities, Job Responsibilities, Job Performance Indicators, Job Competency Requirement, Technical Competency, Values & Beliefs, Digital Leadership Competencies"
+Daftar OKR Produk,Berisi daftar OKR setiap produk di lingkungan DBT DFU DB.
+E-Learning 5 Bold Moves (myDigiLearn),Data Report E-Learning 5 Bold Moves (sumber : myDigiLearn) Telkom Group
+Rekap Industry Highlight & Competitor Movement ,Rekap berita dan respon Industry Highlight dan Competitor Movement produk digital DFU DB yang dilaporkan pada laporan PRM mingguan
+Data Rekening Pensiunan,Kebutuhan data Koptel terkait data rekening karyawan yang akan pensiun dibulan N+1 untuk keperluan memproses untuk hak pensiun TWP oleh Koptel.
+Summary PnL Produk Digital YtD 2025,"Data revenue, total cost, dan EBITDA produk digital in-house YtD 2025"
+Sales NCX - Mapping Product NCX,Mapping dataset NCX berdasarkan nama produk dan nama layanan untuk produk digital
+Data Revenue Produk PaDi,Data-data revenue produk PaDi 
+Profile Pelatihan,Profile Ingenium pelatihan Sigma
+Monitoring Detil Privacy Notice dan Consent Form (EDLT),Daftar pengisian Privacy Notice karyawan dan keluarga karyawan EDLT di MyIntegrity.Update setiap jam.
+OM Corpu,Data OM Corpu
+Riwayat Pelatihan Karyawan - Cognitium,Berisi data peserta yang mengikuti pelatihan pada Cognitium LMS
+Laporan T622 Produk Digital,Laporan revenue SAP untuk BA T622 (produk digital)
+Profile Role Enrichment,Profile Ingenium role enrichment Sigma
+Daily Realization OKR PaDi,"Tabel berisi realisasi harian metriks PaDi yang meliputi : GMV, Revenue, Monthly Active User, dan Monthly Active Seller."
+Sales Pijar Sekolah & Pijar Mahir (Billcomp ONLY),Breakdown realisasi sales Pijar Sekolah dan Pijar Mahir berstatus Billcomp-ONLY. periode YtD 2024. Sumber : NCX & SC-One
+Sales: NCX dan Bundling Connectivity (Reg 1),Menampilkan data terkait realisasi sales dari Channel NCX EBIS dan Bundling HSI
+Span of Control,Jumlah bawahan yang dimiliki Manager di Telkom Parent
+Sales: NCX (Report Inprogress),Dataset terkait order NCX yang sedang berjalan.
+RBV TREG Produk Digital : Target,Laporan data terkait target KPI RBV Operational
+Struktur Oganisasi dan Formasi Telkom (Juni 2025 Rilis 1),Data struktur oganisasi dan formasi Telkom (Juni 2025 Rilis 1)
+Karyawan Tenaga Professional Berbatas Waktu Telkom Parent,"Karyawan sementara Telkom Parent dengan jenis Tenaga Professional Berbatas Waktu, Mobility Echange ke Telkom, DTM Telkom"
+Traits Karyawan,Data rekap traits karyawan per kompetensi. Source: Assistium
+Quality of Hire,Mencakup Karyawan Tetap Telkom Parent dan nilai pertama pasca dihire.
+Promotion Rate,Mencakup data tanggal promosi bandposisi karyawan Telkom Parent.
+Sales: Laporan order Inprogress,Laporan yang menampilkan order sales dengan status inprogress
+List User Jarvis,Report untuk List User Jarvis
+Progress Performansi OKR Produk Digital,Berikut merupakan data progress performansi dari produk digital. 
+Data device monitoring program 100 hari,Data jumlah device dan sekolah untuk produk antares eazy dan pijar sekolah
+Data product_name Revenue produk digital,LIst product_name Revenue produk digital
+Profile Pembicara,Profile Ingenium pembicara Sigma
+Data Revenue Product Digital dan NCX,Data checking terkait data Revenue produk digital berdasarkan TIBS (Telkom Integrated Billing System) dan NCX
+Data NCX Product Digital - Rekap Order,Data terkait order NCX untuk produk digital dengan view Regional dan Witel.
+Data HR Current Telkom Parent (NCX & SC One),Data karyawan Telkom Parent untuk kebutuhan proses Review UAM untuk Aplikasi NCX EBIS dan Aplikasi SC One.
+Profile Publikasi,Profile Ingenium Publikasi Sigma
+Revenue: FCBP - T622 ,Laporan data revenue produk digital dengan BA T622
+Daftar Verifikasi dan Autentikasi Infracare,Daftar karyawan dalam kebutuhan verifikasi dan autentikasi service infracare
+EBITDA Produk Digital,Fact table EBITDA Produk Digital
+BP-1 Telkom Group untuk Kebutuhan Regulatory Update,Data Karyawan BP-1 Telkom Group termasuk organik Telkom yang ditugaskan di anak/ cucu perusahaan dan prohire
+Touchpoint Employee Experience,List data touchpoint untuk kebutuhan employee experience.
+Data NCX Product Digital - 7 product priority,Dataset sales produk digital details yang akan digunakan sebagai soure laporan management
+Revenue Produk Digital - DWS,Revenue Produk Digital melalui channel penjualan DWS
+Monitoring Rekap Privacy Notice dan Employee Consent (Mobility),Monitoring Rekap Privacy Notice dan Employee Consent karyawan Telkom Parent yang menjalankan tugas mobility di Telkom Group
+Profile Summary,Profile Ingeium summary Sigma
+Rekening Bank Gaji Karyawan Telkom,Data rekening bank gaji karyawan Telkom
+data user,laporan user
+Data HJM and Tarrif,Data terkait degan tarif dan HJM Produk digital
+Progress Product Digital RAFI 2024,.Data Progress RAFI 2022 untuk semua Product Digital di DFU DB
+Karyawan TG beragama Kristen dan Katolik,Karyawan Telkom Group beragama Kristen dan Katolik kelahiran di atas 86
+Monitoring Pengajuan MPP,Report monitoring pengajuan MPP yang sudah diajukan oleh karyawan melalui aplikasi Diarium.
+Riwayat Dinas Telkom,Data riwayat kedinasan karyawan Telkom berdasarkan data turunan dari SAP ke Satudata
+Laporan Peserta PQD,Laporan peserta PAD
+Profile Referensi,Profile Ingenium referensi Sigma
+Submisi Ideabox,Data Report Submisi Ideabox Telkom Group dari Tribe Innovation Management Telkom Corporate University
+Data Karyawan CFU WIB,"Karyawan aktif CFU WIB terkini terdiri dari BP I Telkom Group beserta seluruh karyawan termasuk anak perusahaan (WINS, DWS, Telin, Mitratel, Telkominfra, STS) dan seluruh karyawan Telkom Regional untuk dijadikan dasar penyebaran informasi kegiatan Festival Inovasi CFU WIB (Innovathon 2.0) 2022."
+Jumlah Karyawan FTE Telkom Group,Jumlah karyawan FTE Telkom Group sesuai dengan data terbaru yang telah terbit di dalam laporan manajemen Emporium
+Karyawan fungsi CDC Regional dan Witel,Data Karyawan CDC Corporate dan Karyawan di Regional / Witel yang menjalankan Fungsi CDC
+Attrition Rate or Turnover Rate,Metrics data Turnover Rate karyawan Telkom parent sejak 2020-02-01
+Data NCX Product Digital - 7 product priority (age),Data Laporan NCX
+OKR Telkom Corporete University,OKR Karyawan TCU dari periode Januari 2025
+Data FPFM - Employee Relation,Data karyawan aktif Telkom Parent yang berusia kurang dari sama dengan 35 tahun untuk kebutuhan FPFM HC Employee Relation
